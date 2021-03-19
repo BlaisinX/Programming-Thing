@@ -28,7 +28,7 @@ while (String(continueLoop).toLowerCase() == "true") {
   switch (select) {
     //case 1: testing random functions
     case 1:
-      btnExit.bananas(); //19 dollar fortnite gift card
+      btnExit.oranges(); //19 dollar fortnite gift card
       //rolimonStuff.rolimonRequest();
       //lmao rolimon stuff doesnt work lol
 
@@ -52,4 +52,5 @@ while (String(continueLoop).toLowerCase() == "true") {
   //ask if they wanna continue or not
   continueLoop = scanner('Do you wish to continue? Enter "true" or "false." ');
 }
+
 console.log("hi");
